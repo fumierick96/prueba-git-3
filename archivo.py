@@ -1,2 +1,2 @@
 algo = "algo"
-algomas = "cambio algo mas"
+algomas = "algo mas"
